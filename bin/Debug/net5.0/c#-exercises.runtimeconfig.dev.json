@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/kenyonluce/.dotnet/store/|arch|/|tfm|",
+      "/Users/kenyonluce/.nuget/packages"
+    ]
+  }
+}

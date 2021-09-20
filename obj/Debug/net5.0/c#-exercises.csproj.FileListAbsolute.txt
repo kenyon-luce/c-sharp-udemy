@@ -1,0 +1,15 @@
+/Users/kenyonluce/IdeaProjects/c#-exercises/bin/Debug/net5.0/c#-exercises.deps.json
+/Users/kenyonluce/IdeaProjects/c#-exercises/bin/Debug/net5.0/c#-exercises.runtimeconfig.json
+/Users/kenyonluce/IdeaProjects/c#-exercises/bin/Debug/net5.0/c#-exercises.runtimeconfig.dev.json
+/Users/kenyonluce/IdeaProjects/c#-exercises/bin/Debug/net5.0/c#-exercises.dll
+/Users/kenyonluce/IdeaProjects/c#-exercises/bin/Debug/net5.0/ref/c#-exercises.dll
+/Users/kenyonluce/IdeaProjects/c#-exercises/bin/Debug/net5.0/c#-exercises.pdb
+/Users/kenyonluce/IdeaProjects/c#-exercises/obj/Debug/net5.0/c#-exercises.csproj.AssemblyReference.cache
+/Users/kenyonluce/IdeaProjects/c#-exercises/obj/Debug/net5.0/c#-exercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kenyonluce/IdeaProjects/c#-exercises/obj/Debug/net5.0/c#-exercises.AssemblyInfoInputs.cache
+/Users/kenyonluce/IdeaProjects/c#-exercises/obj/Debug/net5.0/c#-exercises.AssemblyInfo.cs
+/Users/kenyonluce/IdeaProjects/c#-exercises/obj/Debug/net5.0/c#-exercises.csproj.CoreCompileInputs.cache
+/Users/kenyonluce/IdeaProjects/c#-exercises/obj/Debug/net5.0/c#-exercises.dll
+/Users/kenyonluce/IdeaProjects/c#-exercises/obj/Debug/net5.0/ref/c#-exercises.dll
+/Users/kenyonluce/IdeaProjects/c#-exercises/obj/Debug/net5.0/c#-exercises.pdb
+/Users/kenyonluce/IdeaProjects/c#-exercises/obj/Debug/net5.0/c#-exercises.genruntimeconfig.cache
