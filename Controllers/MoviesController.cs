@@ -1,6 +1,6 @@
 using System;
 using System.Web.Mvc;
-using c__exercises.Models
+using c__exercises.Models;
 
 namespace c__exercises.Controllers
 {
