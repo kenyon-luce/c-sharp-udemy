@@ -1,6 +1,6 @@
 using System;
 
-namespace Vidly.Models 
+namespace c__exercises.Models 
 {
     public class Movie
     {

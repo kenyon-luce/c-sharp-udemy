@@ -1,8 +1,8 @@
 using System;
 using System.Web.Mvc;
-using Vidly.Models
+using c__exercises.Models
 
-namespace Vidly.Controllers
+namespace c__exercises.Controllers
 {
     public class MoviesController : Controller
     {
